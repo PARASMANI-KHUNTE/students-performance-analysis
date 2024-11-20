@@ -70,4 +70,4 @@ Contributing
 Contributions are welcome! If you find a bug or have ideas for improvement, feel free to open an issue or submit a pull request.
 
 Author
-Your Name
+Parasmani Khunte
